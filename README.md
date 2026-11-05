@@ -80,10 +80,6 @@ Examines seller contribution, delivery outcomes, late-delivery patterns, and cus
 - Power BI dashboard development and DAX-based KPI reporting
 - Translating business questions into measurable analysis
 
-## Repository
-
-[View the project source code and files on GitHub](https://github.com/100rabh-mohite/Ecommerce-sales-analytics)
-
 ## Author
 
 **Saurabh Mohite**  
